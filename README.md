@@ -1,5 +1,11 @@
-<h1 align="center">Olá, seja bem vindo ao meu github!</h1>
+<h1 align="center">Olá, eu sou Luís  seja bem vindo ao meu github!</h1>
+<p> Estou cursando desenvolvimento de sistemas</p>
 
+<p>Eu gosto de Java</p>
+
+<p>Eu gosto de jogar futebol</p>
+
+<p>Linguagens que vamos trabalhar nesse ano: Python, JavaScript, HTML5 e CSS</p>
 ###
 
 
