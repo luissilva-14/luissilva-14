@@ -6,11 +6,10 @@
 <p>Eu gosto de jogar futebol</p>
 
 <p>Linguagens que vamos trabalhar nesse ano: Python, JavaScript, HTML5 e CSS</p>
-###
 
 
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -23,4 +22,5 @@
 
 <img src="https://raw.githubusercontent.com/luissilva-14/luissilva-14/output/snake.svg" alt="Snake animation" />
 
-###
+
+
